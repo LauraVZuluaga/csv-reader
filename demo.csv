@@ -1,0 +1,16 @@
+id,Nombre,Edad,Departamento,Email
+1,Juan,30,Ventas,juan@example.com
+2,María,35,Recursos Humanos,maria@example.com
+3,Carlos,28,Marketing,carlos@example.com
+4,Laura,32,Finanzas,laura@example.com
+5,Pedro,29,Desarrollo de Producto,pedro@example.com
+6,Ana,31,Operaciones,ana@example.com
+7,Luis,33,Ingeniería,luis@example.com
+8,Sofía,27,Ventas,sofia@example.com
+9,Diego,34,Recursos Humanos,diego@example.com
+10,Valentina,29,Marketing,valentina@example.com
+11,Andrés,36,Finanzas,andres@example.com
+12,Carolina,30,Desarrollo de Producto,carolina@example.com
+13,Miguel,32,Operaciones,miguel@example.com
+14,Isabella,28,Ingeniería,isabella@example.com
+15,Alejandro,33,Ventas,alejandro@example.com
